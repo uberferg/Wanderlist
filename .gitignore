@@ -1,0 +1,4 @@
+# Ignore VIM swap files and *.pyc.
+
+*.pyc
+*.sw[op]
